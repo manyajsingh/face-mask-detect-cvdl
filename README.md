@@ -23,3 +23,7 @@ A higher-level interface for creating attractive statistical graphics based on M
 #### PIL (Pillow): 
 Python Imaging Library (PIL) fork, used for handling image files and basic image manipulation.
 
+### The model that we're using is ResNet152V2
+
+
+
