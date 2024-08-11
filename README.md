@@ -24,6 +24,8 @@ A higher-level interface for creating attractive statistical graphics based on M
 Python Imaging Library (PIL) fork, used for handling image files and basic image manipulation.
 
 ### The model that we're using is ResNet152V2
+### To access our dataset, please click on the link mentioned below:
+
 
 ## Understanding our dataset
 ![c1](https://github.com/user-attachments/assets/322a5e20-9d6a-48e9-9598-95e763baafd1)
