@@ -25,5 +25,17 @@ Python Imaging Library (PIL) fork, used for handling image files and basic image
 
 ### The model that we're using is ResNet152V2
 
+## Understanding our dataset
+![c1](https://github.com/user-attachments/assets/322a5e20-9d6a-48e9-9598-95e763baafd1)
 
+## Display of our dataset
+![c2](https://github.com/user-attachments/assets/6148967c-ce1b-4681-a1a3-aabdb1fee01d)
 
+## Plotting train and validation loss
+![c3](https://github.com/user-attachments/assets/e451f32a-dc18-4f3f-8c37-e1ae204da20a)
+
+## Plotting train accuracy and validation accuracy
+![c4](https://github.com/user-attachments/assets/ed173a97-76ea-4c9e-959c-48f4121132a6)
+
+## Final output with confidence percentages
+![c5](https://github.com/user-attachments/assets/d58fe38a-4dab-4e9e-a49f-a4c868a841b5)
