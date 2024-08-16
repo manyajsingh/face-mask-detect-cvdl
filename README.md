@@ -33,11 +33,28 @@ Python Imaging Library (PIL) fork, used for handling image files and basic image
 ## Display of our dataset
 ![c2](https://github.com/user-attachments/assets/6148967c-ce1b-4681-a1a3-aabdb1fee01d)
 
+## Confusion Matrix
+![cm1](https://github.com/user-attachments/assets/57abd5ec-eb11-4506-84cc-9a8d3a8c077c)
+
+### Statistical Scores
+We were able to generate a model that has the following scores
+#### Precision Score: 0.980
+#### Recall Score: 0.982
+#### F1 Score: 0.981
+#### Matthew correlation coefficient: 0.962
+
 ## Plotting train and validation loss
 ![c3](https://github.com/user-attachments/assets/e451f32a-dc18-4f3f-8c37-e1ae204da20a)
 
 ## Plotting train accuracy and validation accuracy
 ![c4](https://github.com/user-attachments/assets/ed173a97-76ea-4c9e-959c-48f4121132a6)
 
+## ROC
+
+![roc](https://github.com/user-attachments/assets/11fce9cb-ef78-4f12-bf23-896eb133c58c)
+
 ## Final output with confidence percentages
 ![c5](https://github.com/user-attachments/assets/d58fe38a-4dab-4e9e-a49f-a4c868a841b5)
+
+![download](https://github.com/user-attachments/assets/25cdc63f-4563-4915-b077-51018aca6dd0)
+
